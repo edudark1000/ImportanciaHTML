@@ -1,0 +1,14 @@
+
+
+
+h1+h3{
+    border: 4px dashed;
+}
+
+a[href='/monitoramento'] {
+    color: orangered;
+}
+
+li:nth-of-type(odd) {
+    color:blue
+}
